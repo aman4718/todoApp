@@ -11,13 +11,6 @@ A simple and responsive **React-based Todo Application** that allows users to ad
 - Fully responsive design
 - Built with React + modern CSS
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-| ------------ | ----------- |
-| ![Desktop](./screenshots/desktop.png) | ![Mobile](./screenshots/mobile.png) |
-
-> *(Add screenshots of your app in a `/screenshots` folder for better visibility)*
 
 ## 🧑‍💻 Technologies Used
 
